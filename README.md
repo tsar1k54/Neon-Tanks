@@ -26,6 +26,7 @@
 ![Меню игры](/ReadMe_Assets/menu.gif)
 
 Превью игрового процесса:
+
 ![Превью часть 1](/ReadMe_Assets/gameplay_part1.gif)
 ![Превью часть 2](/ReadMe_Assets/gameplay_part2.gif)
 
