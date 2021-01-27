@@ -122,21 +122,21 @@
 ## Генерация карты:
   Карта хранится в отдельном файле (файл "map", путь ".../res/Game/"), в виде символов. При запуске игры этот файл считывается и начав сражение карта отображается на экране уже блоками. Содержание файла "map":
 ```
-XXXXXXXXXXXXXXXXX</br>
-X===============X</br>
-X=X==X=XXX=X====X</br>
-X=X=XX=X=X=XX=XXX</br>
-X=X=============X</br>
-X=X====X=X====X=X</br>
-X=X=X=======X=X=X</br>
-X=X=X=XX=XX=X=X=X</br>
-X===============X</br>
-X===============X</br>
-X=X=X=XX=XX=X=X=X</br>
-X=X=========X=X=X</br>
-X=X=XX=XXX====X=X</br>
-X=X=X==X=X=XXXX=X</br>
-X===X===========X</br>
-XXXXXXXXXXXXXXXXX</br>
+XXXXXXXXXXXXXXXXX
+X===============X
+X=X==X=XXX=X====X
+X=X=XX=X=X=XX=XXX
+X=X=============X
+X=X====X=X====X=X
+X=X=X=======X=X=X
+X=X=X=XX=XX=X=X=X
+X===============X
+X===============X
+X=X=X=XX=XX=X=X=X
+X=X=========X=X=X
+X=X=XX=XXX====X=X
+X=X=X==X=X=XXXX=X
+X===X===========X
+XXXXXXXXXXXXXXXXX
 ```
 
